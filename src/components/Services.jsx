@@ -1,8 +1,9 @@
 import React from 'react'
+import SectionTitle from './SectionTitle';
 
 function Services() {
   return (
-    <div>Services</div>
+    <SectionTitle></SectionTitle>
   )
 }
 
